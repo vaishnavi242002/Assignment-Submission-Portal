@@ -1,6 +1,6 @@
 ![Avery Davis](./Images/Avery%20Davis.png)
 
-# **Assignment Submission Portal - Backend**
+<h1 align="center">Assignment Submission Portal - Backend</h1>
 
 ### **Overview**
 
