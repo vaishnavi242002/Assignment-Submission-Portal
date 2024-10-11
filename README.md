@@ -52,13 +52,16 @@ The system is designed to handle multiple users and admins, and role-based acces
 
 Below is a screenshot of the Postman testing for user registration, login, and assignment submission:
 
-![Postman Testing Screenshot](./image/postman-testing.png)
+![Postman Testing Screenshot](./Images/Postman Testing API Screenshot.png)
 
 #### **2. MongoDB User and Admin Data**
 
 Here is a screenshot of the MongoDB database showing the structure of user and admin data entries:
 
-![MongoDB User and Admin Data Screenshot](./image/mongodb-data.png)
+![MongoDB User and Admin Data Screenshot](./Images/MongoDB User Data.png)
+![MongoDB User and Admin Data Screenshot](./Images/MongoDB Admin Data.png)
+
+
 
 ---
 
